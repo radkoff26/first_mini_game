@@ -1,4 +1,4 @@
-#Fri Jan 22 20:57:37 MSK 2021
+#Fri Jan 22 20:59:40 MSK 2021
 base.1=C\:\\Users\\User\\Desktop\\android\\MiniGame\\app\\build\\intermediates\\dex\\debug\\mergeProjectDexDebug\\classes.dex
 path.1=classes.dex
 base.0=C\:\\Users\\User\\Desktop\\android\\MiniGame\\app\\build\\intermediates\\dex\\debug\\mergeExtDexDebug\\classes.dex

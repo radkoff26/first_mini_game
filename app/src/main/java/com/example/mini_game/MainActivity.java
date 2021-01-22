@@ -37,6 +37,8 @@ public class MainActivity extends AppCompatActivity {
         targetView = (TargetView) findViewById(R.id.ll_target);
         lettersView = (LettersView) findViewById(R.id.ll_letters);
         iv = (ImageView) findViewById(R.id.iv);
+        
+        shuffle();
     }
 
     public void shuffle() {
@@ -52,11 +54,5 @@ public class MainActivity extends AppCompatActivity {
         Intent intent = getIntent();
         finish();
         startActivity(intent);
-    }
-
-    @Override
-    protected void onStart() {
-        super.onStart();
-        shuffle();
     }
 }
