@@ -1,0 +1,18 @@
+com/example/mini_game/LettersView.java
+ com.example.mini_game.LettersView
+ com.example.mini_game.LettersView$1
+com/example/mini_game/Alphabet.java
+ com.example.mini_game.Alphabet
+com/example/mini_game/BuildConfig.java
+ com.example.mini_game.BuildConfig
+com/example/mini_game/Letter.java
+ com.example.mini_game.Letter
+com/example/mini_game/LetterTextView.java
+ com.example.mini_game.LetterTextView
+com/example/mini_game/Model.java
+ com.example.mini_game.Model
+com/example/mini_game/TargetView.java
+ com.example.mini_game.TargetView
+ com.example.mini_game.TargetView$1
+com/example/mini_game/MainActivity.java
+ com.example.mini_game.MainActivity
